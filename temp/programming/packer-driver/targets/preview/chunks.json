@@ -1,0 +1,16 @@
+{
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1634224220910,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1634224254007,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  }
+}

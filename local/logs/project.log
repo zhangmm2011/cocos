@@ -1,0 +1,29 @@
+2021-10-14 23:10:04-log: [Package] Profile Migrate: program@Cocos Creator...
+2021-10-14 23:10:04-log: [Package] Profile Migrate: program@Cocos Creator...
+2021-10-14 23:10:04-log: [Package] Profile Migrate: device@Cocos Creator...
+2021-10-14 23:10:04-log: [Package] Profile Migrate: device@Cocos Creator...
+2021-10-14 23:10:04-log: [Package] Profile Migrate: engine@Cocos Creator...
+2021-10-14 23:10:04-log: [Package] Profile Migrate: engine@Cocos Creator...
+2021-10-14 23:10:04-log: [Package] menu@1.0.0 enable
+2021-10-14 23:10:04-log: [Package] profile@1.0.0 enable
+2021-10-14 23:10:04-log: [Package] messages@1.0.0 enable
+2021-10-14 23:10:04-log: [Package] program@1.0.0 enable
+2021-10-14 23:10:05-log: [Package] device@1.0.1 enable
+2021-10-14 23:10:05-log: [Package] ui-kit@1.0.0 enable
+2021-10-14 23:10:05-log: [Package] tester@1.0.0 enable
+2021-10-14 23:10:05-log: [Package] preferences@1.0.0 enable
+2021-10-14 23:10:05-log: Setup mods mgr.: 339.914ms
+2021-10-14 23:10:05-log: [Package] engine@1.0.5 enable
+2021-10-14 23:10:09-log: [Package] programming@1.0.0 enable
+2021-10-14 23:10:09-log: [Package] asset-db@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] console@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] scene@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] project@1.0.1 enable
+2021-10-14 23:10:10-log: [Package] about@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] server@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] utils@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] assets@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] inspector@1.0.0 enable
+2021-10-14 23:10:10-log: [Package] hierarchy@1.0.0 enable
+2021-10-14 23:10:12-log: [Package] preview@1.0.1 enable
+2021-10-14 23:10:12-log: [Package] animator@1.0.0 enable
